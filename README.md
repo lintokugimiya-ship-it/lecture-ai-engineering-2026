@@ -31,6 +31,7 @@ uv run python -m app.ask "LoRAとは何ですか？"
 ```
 
 詳しい手順は [lectures/01/problem.md](lectures/01/problem.md) を見てください。
+回答後は続けて質問できます。空行または `exit` を入力すると終了します。
 
 ## 構成
 
